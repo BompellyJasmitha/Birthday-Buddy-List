@@ -1,0 +1,36 @@
+{"user":[{
+    "id":1,
+    "name":"Kavya",
+    "age":23,
+    "image":"https://tse1.mm.bing.net/th?id=OIP.bhefR7r2P2x16NzSs18ROgHaHa&pid=Api&P=0&h=180"
+},
+{
+    "id":2,
+    "name":"Navya",
+    "age":29,
+    "image":"https://i.pinimg.com/736x/0c/58/3e/0c583ec2edfc8455ebe3238282c2aa0c.jpg"
+
+},
+{
+    "id":3,
+    "name":"Lavanya",
+    "age":20,
+    "image":"https://tse2.mm.bing.net/th?id=OIP.ErI83UXKIflX1WHxPmgF8AHaHa&pid=Api&P=0&h=180"
+
+},
+{
+    "id":4,
+    "name":"Ramya",
+    "age":23,
+    "image":"https://tse1.mm.bing.net/th?id=OIP.jbCR6ZNwdHf9nXQSVa9tJAAAAA&pid=Api&P=0&h=180"
+
+},
+{
+    "id":5,
+    "name":"Renuka",
+    "age":20,
+    "image":"https://tse4.mm.bing.net/th?id=OIP.Ku3Oy-PeYIRAvynQpY4aBQHaJs&pid=Api&P=0&h=180" 
+
+}
+]
+}
